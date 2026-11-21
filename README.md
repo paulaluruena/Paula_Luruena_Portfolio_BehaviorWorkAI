@@ -10,7 +10,7 @@ It uses all of her experience and gives more weight to its own area. Psychology 
 
 - **Interests:** people and AI, people at work, care and evidence.
 - **Experience:** every role, filterable, with what each prepared her to do in research.
-- **Built with AI:** Split It, with a working preview, and three course projects.
+- **Built with AI:** Well Suited (an AI training simulator for difficult client conversations) and Split It, each with a preview, plus three course projects.
 - **How I read a conversation:** one exchange analyzed in five steps, ending with the visitor coding it themselves.
 - **Four studies I would like to run:** proposals, with predictions, method, and limits.
 - **At work:** seven things a people, strategy, or research team asks for, and the experience behind each.
